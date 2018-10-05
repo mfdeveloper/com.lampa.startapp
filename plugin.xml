@@ -21,8 +21,8 @@
             </feature>
         </config-file>
 
-        <source-file src="src/android/startApp.java" target-dir="src/com/lampa/startapp" />
-        <source-file src="src/android/Assets.java" target-dir="src/com/lampa/startapp" />
+        <source-file src="src/android/java/startApp.java" target-dir="src/com/lampa/startapp" />
+        <source-file src="src/android/java/Assets.java" target-dir="src/com/lampa/startapp" />
         <source-file src="src/android/res/xml/file_paths.xml" target-dir="res/xml" />
     </platform>
 
